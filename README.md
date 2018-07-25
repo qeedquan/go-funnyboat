@@ -5,5 +5,5 @@
 Ported from http://funnyboat.sourceforge.net/
 
 New features:
-	* Window resizing
-	* Cheating
+ * Window resizing
+ * Cheating
