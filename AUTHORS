@@ -1,2 +1,19 @@
-# Please keep this list sorted.
-Quan Tran <quantran@knights.ucf.edu>
+Original Credits:
+-----------------
+
+Pekka "pekuja" Kujansuu:    Code, graphics and sound effects.
+                            E-mail: "pekuja <at> iki <dot> fi"
+Olli "Hectigo" Etuaho:      Graphics and code.
+                            E-mail: "admin <at> hectigo <dot> net"
+Joona "JDruid" Karjalainen: Music
+                            E-mail: "jhkarja2 <at> cc <dot> hut <dot> fi"
+
+Additional Credits:
+-------------------
+
+Konstantin Yegupov:         New features and bugfixes in version 1.3
+
+Full credits can be found inside orig/funnyboat/README.txt
+
+Port done by
+Quan Tran <qeed.quan@gmail.com>
